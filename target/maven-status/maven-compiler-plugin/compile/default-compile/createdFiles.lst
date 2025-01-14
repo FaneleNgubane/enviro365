@@ -1,0 +1,7 @@
+com/enviro/assessment/grad001/fanelengubane/exception/GlobalExceptionHandler.class
+com/enviro/assessment/grad001/fanelengubane/Enviro365Application.class
+com/enviro/assessment/grad001/fanelengubane/controller/WasteCategoryController.class
+com/enviro/assessment/grad001/fanelengubane/repository/WasteCategoryRepository.class
+com/enviro/assessment/grad001/fanelengubane/model/WasteCategory.class
+com/enviro/assessment/grad001/fanelengubane/service/WasteCategoryService.class
+com/enviro/assessment/grad001/fanelengubane/config/OpenApiConfig.class

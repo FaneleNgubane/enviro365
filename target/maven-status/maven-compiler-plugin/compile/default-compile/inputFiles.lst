@@ -1,0 +1,16 @@
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/Enviro365Application.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/config/OpenApiConfig.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/controller/DisposalGuidelineController.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/controller/HomeController.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/controller/RecyclingTipController.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/controller/WasteCategoryController.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/exception/GlobalExceptionHandler.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/model/DisposalGuideline.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/model/RecyclingTip.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/model/WasteCategory.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/repository/DisposalGuidelineRepository.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/repository/RecyclingTipRepository.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/repository/WasteCategoryRepository.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/service/DisposalGuidelineService.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/service/RecyclingTipService.java
+/home/fanele/Projects/enviro365/src/main/java/com/enviro/assessment/grad001/fanelengubane/service/WasteCategoryService.java
