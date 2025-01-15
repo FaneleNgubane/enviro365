@@ -3,10 +3,7 @@ package com.enviro.assessment.grad001.fanelengubane;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * Main class for the Enviro365 Spring Boot application.
- * This class contains the main method to run the application.
- */
+
 @SpringBootApplication
 public class Enviro365Application {
 
