@@ -11,9 +11,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Enviro365Application {
 
     /**
-     * The main method to run the Spring Boot application.
+     * 
      *
-     * @param args command-line arguments
+     * @param args 
      */
     public static void main(String[] args) {
         SpringApplication.run(Enviro365Application.class, args);
