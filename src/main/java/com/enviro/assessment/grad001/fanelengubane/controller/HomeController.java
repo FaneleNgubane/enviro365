@@ -35,17 +35,6 @@ public class HomeController {
     }
 
     /**
-     * Handles GET requests to the "/docs" URL.
-     * This endpoint provides a link to the API documentation.
-     *
-     * @return A link to the API documentation.
-     */
-    @GetMapping("/docs")
-    public String docs() {
-        return "API documentation is available at: /swagger-ui.html";
-    }
-
-    /**
      * Handles GET requests to the "/status" URL.
      * This endpoint provides a simple status check for the application.
      *

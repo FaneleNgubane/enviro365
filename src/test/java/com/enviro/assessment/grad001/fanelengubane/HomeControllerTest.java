@@ -31,12 +31,6 @@ public class HomeControllerTest {
     }
 
     @Test
-    public void testDocs() {
-        ResponseEntity<String> response = restTemplate.getForEntity("http://localhost:" + port + "/docs", String.class);
-        assertThat(response.getBody()).isEqualTo("API documentation is available at: /swagger-ui.html");
-    }
-
-    @Test
     public void testStatus() {
         ResponseEntity<String> response = restTemplate.getForEntity("http://localhost:" + port + "/status", String.class);
         assertThat(response.getBody()).isEqualTo("Enviro365 API is running.");
