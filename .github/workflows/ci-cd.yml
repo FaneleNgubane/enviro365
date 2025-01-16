@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: ENVIRO365 Pipeline
 
 on:
   push:
@@ -111,7 +111,7 @@ jobs:
           mkdir -p public/$GITHUB_REF_NAME
           mv target/enviro365-0.0.1-SNAPSHOT.jar public/$GITHUB_REF_NAME/
       - name: Upload artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: enviro365-artifacts
           path: public/
